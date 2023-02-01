@@ -17,7 +17,7 @@
 <br/>
 
 ### 🌱 Introduce ...
-Hi! I study in Biomedical Engineering of H.U.F.S. If you know my subjects . Entering my website at notion into my portfolio!
+Hi! I study Biomedical Engineering at Hankuk University of Foreign Studies If you know my subjects . Enter my website at notion into my portfolio!
         
 	
 ###  :clipboard: Once I've Used 
@@ -44,8 +44,8 @@ Hi! I study in Biomedical Engineering of H.U.F.S. If you know my subjects . Ente
   
 ### Groupware
 	
-<a href="https://github.com/dablro12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=CC6699"/>
+<a href="https://valiant-barnacle-6bf.notion.site/Personal-making-Me-fdc2342835e24f9391fe2dfe28e271d0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=CC6699"/>
+<a href="https://github.com/dablro12" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=CC6699"/>
