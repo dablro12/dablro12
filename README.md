@@ -16,13 +16,13 @@
 
 <br/>
 
-### 🌱 I’m currently learning ...
-        HUFS 
+### 🌱 Introduce ...
+Hi! I study in Biomedical Engineering of H.U.F.S. If you know my subjects . Entering my website at notion into my portfolio!
         
 	
 ###  :clipboard: Once I've Used 
 
-### language
+### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=CC6699"/>
 
