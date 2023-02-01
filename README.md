@@ -22,35 +22,38 @@
 	
 ###  :clipboard: Once I've Used 
 
-        ### language
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+### language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=CC6699"/>
 
         
 ### Tools
-	MONAI
-	UNETR
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=CC6699"/>
+
         
-### OS
-	<img src="https://img.shields.io/Linux/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=Red Hat&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Kali linux&logoColor=white"/>
-	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
+### Operating system
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=RedHat&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Kali linux-557C94?style=flat&logo=Kali linux&logoColor=CC6699"/>
   
-### 협업툴
+### Groupware
 	
- 	 <a href="https://github.com/dablro12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Discord-5865F2 ?style=for-the-badge&logo=Discord&logoColor=white"/>
-### 기타
-		 
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<a href="https://github.com/dablro12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Discord-5865F2 ?style=flat&logo=Discord&logoColor=CC6699"/>
+### USED IDE
+<img src="https://img.shields.io/badge/Jupyter-F37626 ?style=flat&logo=Jupyter&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=CC6699">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=CC6699">
 	
 	  
 	  
