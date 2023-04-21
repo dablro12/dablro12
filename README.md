@@ -18,7 +18,7 @@
 
 ### 🌱 Introduce ...
 Hi! I study Biomedical Engineering at Hankuk University of Foreign Studies. <br/>
-⏬  If you know my subjects . Enter my portfolio into my notion badge ⏬ 
+⏬  If you know my subjects . Click my "notion" badge to view my portfolio ⏬ 
         
 	
 ###  💻 Once I've Used 
