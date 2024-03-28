@@ -20,7 +20,7 @@
 ### 🌱 Introduce ...
 Hi! I study Biomedical Engineering at Hankuk University of Foreign Studies.
 
-I work Medical AI Researcher from Seoul University of Hosplital 
+I work Medical AI Researcher from Seoul University Hosplital 
 
 <br/>
 
