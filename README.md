@@ -18,7 +18,9 @@
 <br/>
 
 ### 🌱 Introduce ...
-Hi! I study Biomedical Engineering at Hankuk University of Foreign Studies. <br/>
+Hi! I study Biomedical Engineering at Hankuk University of Foreign Studies.
+and I work Medical AI Researcher from Seoul University of Hosplital 
+<br/>
 ⏬  If you know my subjects . Click my "notion" badge to view my portfolio ⏬ 
         
 	
