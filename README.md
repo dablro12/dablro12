@@ -5,11 +5,11 @@
 ### Hi there 👋
 
 
-<br/>
+<!-- <br/> -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dablro12)](https://solved.ac/dablro12/)
+<!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dablro12)](https://solved.ac/dablro12/) -->
 
-<br/>
+<!-- <br/> -->
 
 <br/>
 
