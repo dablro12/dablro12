@@ -34,7 +34,7 @@ I work as a Medical AI Researcher from Seoul University Hosplital
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=CC6699"/>
 
 ### ML & Vision & LLM & Other Tools
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=CC6699"/>
