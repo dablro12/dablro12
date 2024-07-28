@@ -82,7 +82,7 @@ I work as a Medical Vision/LLM AI Researcher from Seoul University Hosplital
 
 ### Groupware	
 <a href="https://github.com/dablro12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=CC6699"/>
-<a href="https://valiant-barnacle-6bf.notion.site/Personal-making-Me-fdc2342835e24f9391fe2dfe28e271d0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=CC6699"/>
+<a href="https://eiden-choe.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=Discord&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=CC6699"/>
